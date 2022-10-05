@@ -1,0 +1,15 @@
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/bin/Debug/net6.0/cse210-unit2
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/bin/Debug/net6.0/cse210-unit2.deps.json
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/bin/Debug/net6.0/cse210-unit2.runtimeconfig.json
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/bin/Debug/net6.0/cse210-unit2.dll
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/bin/Debug/net6.0/cse210-unit2.pdb
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.csproj.AssemblyReference.cache
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.AssemblyInfoInputs.cache
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.AssemblyInfo.cs
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.csproj.CoreCompileInputs.cache
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.dll
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/refint/cse210-unit2.dll
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.pdb
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/cse210-unit2.genruntimeconfig.cache
+/Users/el_piqui/Library/CloudStorage/OneDrive-BYU-Idaho/College Classes/2022/3. Fall/CSE 210/CSE210_Unit 2/cse210-unit2/obj/Debug/net6.0/ref/cse210-unit2.dll
