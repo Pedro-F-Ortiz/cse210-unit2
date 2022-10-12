@@ -90,7 +90,7 @@ namespace HiloGame
             }
             else if (playagain == "n")
             {
-                Console.WriteLine("Thanks for playing");
+                Console.WriteLine("Thanks for playing!");
                 isPlaying = false;
             }
         }
