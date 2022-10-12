@@ -19,7 +19,7 @@ namespace HiloGame
 
         public Director()
         {
-            int current_card = myCard.pick_card();
+            current_card = myCard.pick_card();
             totalScore = 100;
         }
 
@@ -36,7 +36,7 @@ namespace HiloGame
         public void getInputs()
         {
             Console.WriteLine($"This card is: {current_card}");
-            Console.Write("Higher or Lower? [h/l]");
+            Console.Write("Higher or Lower? [h/l] ");
             guess_card = Console.ReadLine();
         }
 
