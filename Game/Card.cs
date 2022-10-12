@@ -6,7 +6,7 @@ namespace HiloGame
     {
         int number = 0;
 
-        Card() { }
+        public Card() { }
 
         public int pick_card()
         {
